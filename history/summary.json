@@ -1,42 +1,42 @@
 [
   {
     "name": "LocalZero Monitoring (prod)",
-    "url": "https://https://monitoring.localzero.net/",
-    "icon": "https://icons.duckduckgo.com/ip3/https.ico",
+    "url": "https://monitoring.localzero.net/",
+    "icon": "https://icons.duckduckgo.com/ip3/monitoring.localzero.net.ico",
     "slug": "local-zero-monitoring-prod",
-    "status": "down",
-    "uptime": "0.09%",
-    "uptimeDay": "0.09%",
-    "uptimeWeek": "0.09%",
-    "uptimeMonth": "0.09%",
-    "uptimeYear": "0.09%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "1.01%",
+    "uptimeDay": "1.01%",
+    "uptimeWeek": "1.01%",
+    "uptimeMonth": "1.01%",
+    "uptimeYear": "1.01%",
+    "time": 2040,
+    "timeDay": 2040,
+    "timeWeek": 2040,
+    "timeMonth": 2040,
+    "timeYear": 2040,
     "dailyMinutesDown": {
-      "2025-04-29": 4
+      "2025-04-29": 7
     }
   },
   {
     "name": "LocalZero Monitoring (test)",
-    "url": "https://https://monitoring-test.localzero.net/",
-    "icon": "https://icons.duckduckgo.com/ip3/https.ico",
+    "url": "https://monitoring-test.localzero.net/",
+    "icon": "https://icons.duckduckgo.com/ip3/monitoring-test.localzero.net.ico",
     "slug": "local-zero-monitoring-test",
     "status": "down",
-    "uptime": "0.34%",
-    "uptimeDay": "0.34%",
-    "uptimeWeek": "0.34%",
-    "uptimeMonth": "0.34%",
-    "uptimeYear": "0.34%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 654,
+    "timeDay": 654,
+    "timeWeek": 654,
+    "timeMonth": 654,
+    "timeYear": 654,
     "dailyMinutesDown": {
-      "2025-04-29": 4
+      "2025-04-29": 7
     }
   }
 ]
