@@ -8,7 +8,7 @@ sites:
   - name: LocalZero Monitoring (test)
     url: https://monitoring-test.localzero.net/
     headers:
-    - "Authorization: Bearer $TESTING_BASIC_AUTH"
+    - "Authorization: Basic $TESTING_BASIC_AUTH"
 
 status-website:
   baseUrl: /localzero-monitoring-upptime
