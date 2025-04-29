@@ -6,7 +6,7 @@ sites:
   - name: LocalZero Monitoring (prod)
     url: https://https://monitoring.localzero.net/
   - name: LocalZero Monitoring (test)
-  url: https://https://monitoring-test.localzero.net/
+    url: https://https://monitoring-test.localzero.net/
 
 status-website:
   baseUrl: /localzero-monitoring-upptime
