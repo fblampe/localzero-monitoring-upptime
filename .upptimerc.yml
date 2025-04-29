@@ -4,9 +4,9 @@ repo: localzero-monitoring-upptime # The name of this repository
 
 sites:
   - name: LocalZero Monitoring (prod)
-    url: https://https://monitoring.localzero.net/
+    url: https://monitoring.localzero.net/
   - name: LocalZero Monitoring (test)
-    url: https://https://monitoring-test.localzero.net/
+    url: https://monitoring-test.localzero.net/
 
 status-website:
   baseUrl: /localzero-monitoring-upptime
