@@ -4,19 +4,19 @@
     "url": "https://monitoring.localzero.net/",
     "icon": "https://icons.duckduckgo.com/ip3/monitoring.localzero.net.ico",
     "slug": "local-zero-monitoring-prod",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 1592,
-    "timeDay": 1592,
-    "timeWeek": 1592,
-    "timeMonth": 1592,
-    "timeYear": 1592,
+    "status": "up",
+    "uptime": "79.81%",
+    "uptimeDay": "79.81%",
+    "uptimeWeek": "79.81%",
+    "uptimeMonth": "79.81%",
+    "uptimeYear": "79.81%",
+    "time": 1525,
+    "timeDay": 1525,
+    "timeWeek": 1525,
+    "timeMonth": 1525,
+    "timeYear": 1525,
     "dailyMinutesDown": {
-      "2025-04-29": 0
+      "2025-04-29": 66
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://monitoring-test.localzero.net/",
     "icon": "https://icons.duckduckgo.com/ip3/monitoring-test.localzero.net.ico",
     "slug": "local-zero-monitoring-test",
-    "status": "down",
-    "uptime": "2.66%",
-    "uptimeDay": "2.66%",
-    "uptimeWeek": "2.66%",
-    "uptimeMonth": "2.66%",
-    "uptimeYear": "2.66%",
-    "time": 853,
-    "timeDay": 853,
-    "timeWeek": 853,
-    "timeMonth": 853,
-    "timeYear": 853,
+    "status": "up",
+    "uptime": "2.12%",
+    "uptimeDay": "2.12%",
+    "uptimeWeek": "2.12%",
+    "uptimeMonth": "2.12%",
+    "uptimeYear": "2.12%",
+    "time": 1002,
+    "timeDay": 1002,
+    "timeWeek": 1002,
+    "timeMonth": 1002,
+    "timeYear": 1002,
     "dailyMinutesDown": {
-      "2025-04-29": 252
+      "2025-04-29": 318
     }
   }
 ]
